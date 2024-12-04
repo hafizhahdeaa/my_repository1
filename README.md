@@ -3,5 +3,5 @@
 Nama: Zahra
 Jurusan: Sistem Informasi
 Minat: Teknologi, Pemrograman, dan Data Analytics
-2030 jadi data anal
-Saya sengang belajar git hub dikelas
+2030 jadi data scientist
+Saya senang belajar git hub dikelas
